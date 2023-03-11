@@ -1,0 +1,2 @@
+module Collectionday2 {
+}
