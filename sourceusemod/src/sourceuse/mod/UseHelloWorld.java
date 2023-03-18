@@ -18,7 +18,7 @@ public class UseHelloWorld {
 		var x ="anjana";
 		var y=23.75;
 		var z ='c';
-		//x=20 assign and initalize in one line
+		//x=20 assign and initialize in one line
 		System.out.println(x.length());
 		
 	}
