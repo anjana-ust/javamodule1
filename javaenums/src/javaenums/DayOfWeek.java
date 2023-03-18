@@ -1,0 +1,25 @@
+package javaenums;
+
+public enum DayOfWeek {
+	MONDAY("Monday"),
+	TUESDAY("Tuesday"),
+	WEDNESDAY("Wednesday"),
+	THURSDAY("Thursday"),
+	FRIDAY("Friday"),
+	SATURDAY("Satuday"),
+	SUNDAY("Sunday");
+	
+	private final String name ;
+
+
+DayOfWeek(String name) {
+	this.name = name;
+}
+public String getName() {
+	return name;
+}
+}
+
+
+
+
