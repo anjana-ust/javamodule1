@@ -1,0 +1,1 @@
+package creationalpattern.singleton;
